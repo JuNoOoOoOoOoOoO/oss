@@ -82,7 +82,7 @@ jobs
 * -: 이전 작업
 * Running/Stopped: 상태
 
-### 🔄 잡(Jobs)의 상태와 전환 (State Transitions)
+### 잡(Jobs)의 상태와 전환 (State Transitions)
 
 리눅스 프로세스는 사용자의 조작 가능 여부에 따라 세 가지 상태를 가집니다. 아래 그림은 각 상태 간의 전환 흐름을 보여준다.
 
