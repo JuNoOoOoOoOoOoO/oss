@@ -86,7 +86,7 @@ jobs
 
 리눅스 프로세스는 사용자의 조작 가능 여부에 따라 세 가지 상태를 가집니다. 아래 그림은 각 상태 간의 전환 흐름을 보여준다.
 
-![Jobs State Flow](./jobs-flow.png)
+<img src="./jobs-flow.png" width="500" alt="Jobs State Flow">
 
 | 상태 | 영문 (State) | 내용 |
 | :--- | :--- | :--- |
