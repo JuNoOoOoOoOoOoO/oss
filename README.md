@@ -71,3 +71,13 @@ ps aux
 ```bash
 jobs
 ```
+
+### 출력 예시 및 설명
+```Plaintext
+[1]+  Running                 ./script.sh &
+[2]-  Stopped                 vim textfile.txt
+```
+* [1], [2]: 작업 번호 (Job ID)
+* +: 현재 작업 (fg나 bg 명령의 기본 대상)
+* -: 이전 작업
+* Running/Stopped: 상태
