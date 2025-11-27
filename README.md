@@ -1,6 +1,6 @@
-# 🐧 Linux Process Management Guide
+# 🐧 Open Source Software Homework#2
 
-이 문서는 리눅스 시스템에서 프로세스를 모니터링하고 제어하는 데 필수적인 4가지 명령어(`top`, `ps`, `jobs`, `kill`)에 대한 가이드이다.
+조선대학교 컴퓨터공학과 20213097 전준호
 
 ---
 
